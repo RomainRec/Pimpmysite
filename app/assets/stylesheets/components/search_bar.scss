@@ -1,0 +1,14 @@
+/* custom de la search bar */
+
+.search_bar{   
+   height : 34px;
+   width : 400px;
+   margin-bottom:25px;
+   margin-top: 40px;
+   font-size: 15px;
+   padding-left :15px;
+}
+
+.search_bar:hover {
+   box-shadow : 0px 1px 1px 0px #e4e4e4;
+}
